@@ -9,3 +9,10 @@ if ($principal.IsInRole([Security.Principal.WindowsBuiltInRole]::Administrator) 
 	
 	
 Get-ComputerInfo -Property Windows*
+
+
+# 
+
+# Set up tab completion in PowerShell
+Install-Module posh-docker
+Import-Module posh-docker

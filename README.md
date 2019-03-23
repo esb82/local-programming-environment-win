@@ -7,5 +7,4 @@ Install Packages
 * Visual Studio Code
 * Python 3
 * Docker for Windows
-* ...
-
+  * Set up tab completion in PowerShell for Docker
